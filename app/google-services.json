@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855834383212",
+    "firebase_url": "https://eventdatabasekao.firebaseio.com",
+    "project_id": "eventdatabasekao",
+    "storage_bucket": "eventdatabasekao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855834383212:android:dc2a97865488f842639949",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855834383212-c37uqgr94u5g7u4j4j7fmun5kalf1s3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffsgEDdh3Akovq-ucfHp6mpuGXUcWztY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855834383212-c37uqgr94u5g7u4j4j7fmun5kalf1s3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
