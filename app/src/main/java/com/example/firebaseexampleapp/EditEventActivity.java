@@ -74,7 +74,6 @@ public class EditEventActivity extends AppCompatActivity {
         }
     }
 
-
     public void deleteEventData(View v) {
         dbHelper.deleteEvent(keyToUpdate);
         onHome(v);              // reloads opening screen

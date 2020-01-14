@@ -30,8 +30,6 @@ public class MainActivity extends AppCompatActivity {
     private int dateYear;
 
     FirebaseDatabaseHelper dbHelper;
-    DecimalFormat df = new DecimalFormat("0#");
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
